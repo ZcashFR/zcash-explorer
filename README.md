@@ -1,6 +1,6 @@
 # ZcashExplorer
 
-Web: https://zcashblockexplorer.com
+Web: https://explorer.zcashfr.io/
 
 V3 Onion: http://zcashfgzdzxwiy7yq74uejvo2ykppu4pzgioplcvdnpmc6gcu5k6vwyd.onion/
 
